@@ -69,21 +69,21 @@ print('RMSE = ',rmse)
 
 ## Output:
 
-###df.head()
+### df.head()
 ![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/533f021b-e862-44d0-8583-50ceeb1236ca)
-###df.tail()
+### df.tail()
 ![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/95b67a4e-cbc7-420e-9519-0994a2dc6c4a)
-###Array value of X:
+### Array value of X:
 ![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/bc82b991-107e-4227-8274-98e001f4becb)
-###Array value of Y:
+### Array value of Y:
 ![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/bafe4d60-1b37-4185-9476-b2452523f59e)
-###Values of Y prediction:
+### Values of Y prediction:
 ![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/b2df0322-eb2b-424f-aa91-ea735eaff19e)
-###Values of Y test:
+### Values of Y test:
 ![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/6ec5e0ee-e316-4e34-8631-bd1ecf5f0e5a)
-###Training Set Graph and Test Set Graph:
+### Training Set Graph and Test Set Graph:
 ![Untitled](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/f4bb444e-c18b-4845-bcaa-68eb82d96f9a)
-###Values of MSE, MAE and RMSE:
+### Values of MSE, MAE and RMSE:
 ![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/12d3790a-21e2-43bf-869d-e52e7d3abc33)
 
 
