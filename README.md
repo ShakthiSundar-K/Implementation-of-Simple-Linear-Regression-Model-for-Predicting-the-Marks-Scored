@@ -69,23 +69,24 @@ print('RMSE = ',rmse)
 
 ## Output:
 
-### df.head()
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/533f021b-e862-44d0-8583-50ceeb1236ca)
-### df.tail()
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/95b67a4e-cbc7-420e-9519-0994a2dc6c4a)
+### df.head():
+![image](https://github.com/DhanushPalani/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121594640/232d67d4-7d0f-46b9-8e6d-76a38cd91043)
+### df.tail():
+![image](https://github.com/DhanushPalani/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121594640/1e1e9820-2e87-42f7-8806-b60724790cf8)
 ### Array value of X:
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/bc82b991-107e-4227-8274-98e001f4becb)
+![image](https://github.com/DhanushPalani/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121594640/8183d7f1-b892-402e-9ee6-74f8543d8ce2)
 ### Array value of Y:
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/bafe4d60-1b37-4185-9476-b2452523f59e)
+![image](https://github.com/DhanushPalani/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121594640/163953da-f3cb-4395-bbb8-d7b71e3acbf9)
 ### Values of Y prediction:
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/b2df0322-eb2b-424f-aa91-ea735eaff19e)
+![image](https://github.com/DhanushPalani/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121594640/669b908f-1bd8-410c-90f6-72650ecd82b5)
 ### Values of Y test:
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/6ec5e0ee-e316-4e34-8631-bd1ecf5f0e5a)
-### Training Set Graph and Test Set Graph:
-![Untitled](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/f4bb444e-c18b-4845-bcaa-68eb82d96f9a)
-### Values of MSE, MAE and RMSE:
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116143/12d3790a-21e2-43bf-869d-e52e7d3abc33)
-
+![image](https://github.com/DhanushPalani/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121594640/b2f215bd-864e-43d5-a867-6391f6abc610)
+### Training Set Graph:
+![image](https://github.com/DhanushPalani/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121594640/ebc72121-461d-46a6-8718-5db58ec289f4)
+### Test Set Graph:
+![image](https://github.com/DhanushPalani/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121594640/82927cac-0360-4ea3-ac93-1d81f6d14f3f)
+### Values of MSE,MAE and RMSE:
+![image](https://github.com/DhanushPalani/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121594640/00b28b13-7418-4b6a-9fb6-1edb157a9580)
 
 
 
